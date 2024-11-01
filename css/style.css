@@ -1,0 +1,17 @@
+/* just code */
+.spoiler{
+	background:#FF0000;
+	border-radius:5px;
+	padding:5px;
+	font-weight:bold;
+	color:#FFFFFF;
+	cursor:pointer;
+}
+.spoiler-open{
+	background:#FFDEDE;
+	border-radius:5px;
+	padding:5px;
+}
+.spoiler > .hidden-content{
+	display: none;
+}
